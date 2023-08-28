@@ -8,3 +8,6 @@
 - 😄 Pronouns: "EAGLE"
 - ⚡ Fun fact: my life is funnnnn ;((
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunghyun1356&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=sunghyun1356&show_icons=true">
