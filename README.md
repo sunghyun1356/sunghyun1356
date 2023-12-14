@@ -72,7 +72,7 @@ Hi there 👋
       <td><a href="">Fixing~</a></td>
     </tr>
     <tr>
-      <td><a href="https://drive.google.com/drive/u/0/search">RTS(서강대학교 수강로드맵 작성 도우미)</a></td>
+      <td><a href="[https://drive.google.com/drive/u/0/search](https://drive.google.com/file/d/1E32kwT7h6qgla6rIli7BN1NDulS8mWin/view?usp=sharing)">RTS(서강대학교 수강로드맵 작성 도우미)</a></td>
       <td>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
