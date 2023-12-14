@@ -65,20 +65,20 @@ Hi there 👋
     <tr>
       <td><a href="">PuzzleU</a></td>
       <td>
-        <img src=""/>
-        <img src=""/>
+        <img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logo=Java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
       </td>
       <td>2024</td>
-      <td><a href=""></a></td>
+      <td><a href="">Fixing~</a></td>
     </tr>
     <tr>
       <td><a href="">RTS(서강대학교 수강로드맵 작성 도우미)</a></td>
       <td>
-        <img src=""/>
-        <img src=""/>
+        <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
 	<br>
-	<img src="" />
-	<img src="" />
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
       </td>
       <td>2023</td>
       <td><a href=""></a></td>
@@ -86,8 +86,11 @@ Hi there 👋
     <tr>
       <td><a href="", align=center>서강대학교 2023 가을 학교 축제 공식 웹사이트</a></td>
       <td>
-        <img src="" />
-        <img src="" />
+        <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+	<br>
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
       </td>
       <td>년도</td>
       <td><a href=""></a></td>
@@ -95,22 +98,22 @@ Hi there 👋
     <tr>	
       <td><a href="">Koogle(외국인들을 위한 나라, 언어 기반 맛집, 카페 추천 지도)</a></td>
       <td>
-        <img src=""/>
-        <img src=""/>
+        <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
 	<br>
-	<img src="" />
-	<img src="" />
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
       </td>
       <td>2023</td>
       <td><a href=""></a></td>
 	    <tr>	
       <td><a href="">Solved_it(코딩테스트 스터디 자동 관리 웹사이트)</a></td>
       <td>
-        <img src=""/>
-        <img src=""/>
+        <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
 	<br>
-	<img src="" />
-	<img src="" />
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
       </td>
       <td>2023</td>
       <td><a href=""></a></td>
