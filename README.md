@@ -63,37 +63,16 @@ Hi there 👋
       <th>GitHub</th>
     </tr>
     <tr>
-      <td><a href=""></a></td>
+      <td><a href="">PuzzleU</a></td>
       <td>
         <img src=""/>
         <img src=""/>
       </td>
-      <td>년도</td>
-      <td><a href="">🔗</a></td>
-    </tr>
-    <tr>
-      <td><a href=""></a></td>
-      <td>
-        <img src=""/>
-        <img src=""/>
-	<br>
-	<img src="" />
-	<img src="" />
-      </td>
-      <td>년도</td>
+      <td>2024</td>
       <td><a href=""></a></td>
     </tr>
     <tr>
-      <td><a href=""></a></td>
-      <td>
-        <img src="" />
-        <img src="" />
-      </td>
-      <td>년도</td>
-      <td><a href=""></a></td>
-    </tr>
-    <tr>	
-      <td><a href=""></a></td>
+      <td><a href="">RTS(서강대학교 수강로드맵 작성 도우미)</a></td>
       <td>
         <img src=""/>
         <img src=""/>
@@ -103,6 +82,49 @@ Hi there 👋
       </td>
       <td>2023</td>
       <td><a href=""></a></td>
+    </tr>
+    <tr>
+      <td><a href="", align=center>서강대학교 2023 가을 학교 축제 공식 웹사이트</a></td>
+      <td>
+        <img src="" />
+        <img src="" />
+      </td>
+      <td>년도</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>	
+      <td><a href="">Koogle(외국인들을 위한 나라, 언어 기반 맛집, 카페 추천 지도)</a></td>
+      <td>
+        <img src=""/>
+        <img src=""/>
+	<br>
+	<img src="" />
+	<img src="" />
+      </td>
+      <td>2023</td>
+      <td><a href=""></a></td>
+	    <tr>	
+      <td><a href="">Solved_it(코딩테스트 스터디 자동 관리 웹사이트)</a></td>
+      <td>
+        <img src=""/>
+        <img src=""/>
+	<br>
+	<img src="" />
+	<img src="" />
+      </td>
+      <td>2023</td>
+      <td><a href=""></a></td>
+		    <tr>	
+      <td><a href="">무천장(사용자 옷 기반 무신사 컬렉션 자동 추천 시스템 사이트)</a></td>
+      <td>
+        <img src=""/>
+        <img src=""/>
+	<br>
+	<img src="" />
+	<img src="" />
+      </td>
+      <td>2023</td>
+      <td><a href=""></a></td>	
   </table>
 </div>
 <div align="center">
