@@ -128,9 +128,10 @@ Hi there 👋
   </table>
 </div>
 <div align="center">
-## 📊 Stats
+	
+# 📊 Stats
 
-<div align="center">
+
 
 </br>
 <a href="https://github.com/sunghyun1356">
@@ -148,12 +149,12 @@ Hi there 👋
 <!--END_SECTION:waka-->
 </div>
 </br></br>
-
-## 🎸 ETC
+<div align="center">
+	
+# 🎸 ETC
 
 ### BOJ
 
-<div align="center">
 
 ![sunghyun1356's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=sunghyun1356)
 
