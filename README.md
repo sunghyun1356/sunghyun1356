@@ -51,7 +51,7 @@ Hi there 👋
 </div>
 </br></br>
 <div align="center">
-  <h1> Projects </h1>
+  <h1> 🐾Projects🐾 </h1>
 </div>
 
 <div align="center">
