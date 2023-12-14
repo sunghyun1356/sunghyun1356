@@ -9,11 +9,11 @@ Hi there 👋
 - 💬 Ask me about "anything"
 - 📫 How to reach me: "sunghyun1356@naver.com"
 
-##  Skills 
+##  🐲Skills🐲 
 
 
 
-### Language / Stacks
+### 🐲Language / Stacks🐲
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
@@ -24,16 +24,16 @@ Hi there 👋
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 
-### Frameworks
+### 🐲Frameworks🐲
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
 
-### DB
+### 🐲DB🐲
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
-### DevOps / Infra
+### 🐲DevOps / Infra🐲
 
 ![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white)
 ![RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=AmazonRDS&logoColor=white)
@@ -44,7 +44,7 @@ Hi there 👋
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 
-### Coworking tools
+### 🐲Coworking tools🐲
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 
@@ -168,7 +168,7 @@ Hi there 👋
 	
 # 🎸 ETC
 
-### BOJ
+### 🐲BOJ🐲
 
 
 ![sunghyun1356's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=sunghyun1356)
