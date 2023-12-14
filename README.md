@@ -72,7 +72,7 @@ Hi there 👋
       <td><a href="">Fixing~</a></td>
     </tr>
     <tr>
-      <td><a href="">RTS(서강대학교 수강로드맵 작성 도우미)</a></td>
+      <td><a href="https://drive.google.com/drive/u/0/search">RTS(서강대학교 수강로드맵 작성 도우미)</a></td>
       <td>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
@@ -81,10 +81,10 @@ Hi there 👋
 	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
       </td>
       <td>2023</td>
-      <td><a href=""></a></td>
+      <td><a href="https://github.com/RTS-Road-Through-Sogang/Server">RTS 깃헙</a></td>
     </tr>
     <tr>
-      <td><a href="", align=center>서강대학교 2023 가을 학교 축제 공식 웹사이트</a></td>
+      <td><a href="https://www.instagram.com/p/CxXXS88P2Q9/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA%3D%3D&img_index=1", align=center>서강대학교 2023 가을 학교 축제 공식 웹사이트</a></td>
       <td>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
@@ -93,10 +93,10 @@ Hi there 👋
 	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
       </td>
       <td>년도</td>
-      <td><a href=""></a></td>
+      <td><a href="https://github.com/sunghyun1356/sogang_festival_2023">축제 깃헙</a></td>
     </tr>
     <tr>	
-      <td><a href="">Koogle(외국인들을 위한 나라, 언어 기반 맛집, 카페 추천 지도)</a></td>
+      <td><a href="https://github.com/sunghyun1356/koogle-server">Koogle(외국인들을 위한 나라, 언어 기반 맛집, 카페 추천 지도)</a></td>
       <td>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
@@ -105,7 +105,7 @@ Hi there 👋
 	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
       </td>
       <td>2023</td>
-      <td><a href=""></a></td>
+      <td><a href="https://github.com/hackerton4-koogle/server">쿠글 깃헙</a></td>
 	    <tr>	
       <td><a href="">Solved_it(코딩테스트 스터디 자동 관리 웹사이트)</a></td>
       <td>
@@ -116,9 +116,10 @@ Hi there 👋
 	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
       </td>
       <td>2023</td>
-      <td><a href=""></a></td>
+      <td><a href="https://github.com/sunghyun1356/solve_it_server">솔빗</a></td>
 		    <tr>	
-      <td><a href="">무천장(사용자 옷 기반 무신사 컬렉션 자동 추천 시스템 사이트)</a></td>
+      <td><a href="">
+	     무천장(사용자 옷 기반 무신사 컬렉션 자동 추천 시스템 사이트)</a></td>
       <td>
         <img src=""/>
         <img src=""/>
@@ -127,7 +128,7 @@ Hi there 👋
 	<img src="" />
       </td>
       <td>2023</td>
-      <td><a href=""></a></td>	
+      <td><a href="https://github.com/sunghyun1356/Muchunzang-project">무천장</a></td>	
   </table>
 </div>
 <div align="center">
