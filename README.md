@@ -3,9 +3,9 @@
 
 Hi there 👋
 - 🔭 I’m currently Studying on **Sogang Univ**...
-- 🌱 I’m currently learning Computer science & Business Administration
+- 🌱 I’m currently learning **Computer science** & **Business Administration**
 - 👯 I’m looking to collaborate with who is passionate
-- 🤔 I’m looking for help with nothing but for my self
+- 🤔 I’m looking for JOB in **Finance Company**
 - 💬 Ask me about "anything"
 - 📫 How to reach me: "sunghyun1356@naver.com"
 
@@ -69,10 +69,10 @@ Hi there 👋
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
       </td>
       <td>2024</td>
-      <td><a href="">Fixing~</a></td>
+      <td><a href="">🧩</a></td>
     </tr>
-    <tr>
-      <td><a href="[https://drive.google.com/drive/u/0/search](https://drive.google.com/file/d/1E32kwT7h6qgla6rIli7BN1NDulS8mWin/view?usp=sharing)">RTS(서강대학교 수강로드맵 작성 도우미)</a></td>
+	  <tr>
+      <td><a href="https://drive.google.com/file/d/1E32kwT7h6qgla6rIli7BN1NDulS8mWin/view?usp=sharing">RTS(서강대학교 수강로드맵 작성 도우미)</a></td>
       <td>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
@@ -81,7 +81,7 @@ Hi there 👋
 	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
       </td>
       <td>2023</td>
-      <td><a href="https://github.com/RTS-Road-Through-Sogang/Server">RTS 깃헙</a></td>
+      <td><a href="https://github.com/RTS-Road-Through-Sogang/Server">🗺</a></td>
     </tr>
     <tr>
       <td><a href="https://www.instagram.com/p/CxXXS88P2Q9/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA%3D%3D&img_index=1", align=center>서강대학교 2023 가을 학교 축제 공식 웹사이트</a></td>
@@ -92,8 +92,8 @@ Hi there 👋
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
 	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
       </td>
-      <td>년도</td>
-      <td><a href="https://github.com/sunghyun1356/sogang_festival_2023">축제 깃헙</a></td>
+      <td>2023</td>
+      <td><a href="https://github.com/sunghyun1356/sogang_festival_2023">🎊</a></td>
     </tr>
     <tr>	
       <td><a href="https://github.com/sunghyun1356/koogle-server">Koogle(외국인들을 위한 나라, 언어 기반 맛집, 카페 추천 지도)</a></td>
@@ -105,7 +105,7 @@ Hi there 👋
 	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
       </td>
       <td>2023</td>
-      <td><a href="https://github.com/hackerton4-koogle/server">쿠글 깃헙</a></td>
+      <td><a href="https://github.com/hackerton4-koogle/server">🥙</a></td>
 	    <tr>	
       <td><a href="">Solved_it(코딩테스트 스터디 자동 관리 웹사이트)</a></td>
       <td>
@@ -116,19 +116,30 @@ Hi there 👋
 	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
       </td>
       <td>2023</td>
-      <td><a href="https://github.com/sunghyun1356/solve_it_server">솔빗</a></td>
+      <td><a href="https://github.com/sunghyun1356/solve_it_server">🐊</a></td>
+	    </tr>
+	  <tr>
+      <td><a href="https://drive.google.com/file/d/1E32kwT7h6qgla6rIli7BN1NDulS8mWin/view?usp=sharing">밥메이트(대학생들의 맛집 취향저격 커뮤니티연결)</a></td>
+      <td>
+        <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+	<br>
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=AmazonRDS&logoColor=white"/>
+      </td>
+      <td>2023</td>
+      <td><a href="https://github.com/RTS-Road-Through-Sogang/Server](https://github.com/2023-SINCHONTHON-Team8/Server)">🍖</a></td>
+    </tr>
 		    <tr>	
       <td><a href="">
 	     무천장(사용자 옷 기반 무신사 컬렉션 자동 추천 시스템 사이트)</a></td>
       <td>
-        <img src=""/>
-        <img src=""/>
-	<br>
-	<img src="" />
-	<img src="" />
+        <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
       </td>
-      <td>2023</td>
-      <td><a href="https://github.com/sunghyun1356/Muchunzang-project">무천장</a></td>	
+      <td>2022</td>
+      <td><a href="https://github.com/sunghyun1356/Muchunzang-project">👚</a></td>	
   </table>
 </div>
 <div align="center">
