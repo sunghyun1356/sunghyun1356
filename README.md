@@ -1,39 +1,40 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Sunghyun%201356&fontSize=90)
+<div align="center">
+
+Hi there 👋
 - 🔭 I’m currently Studying on **Sogang Univ**...
 - 🌱 I’m currently learning Computer science & Business Administration
 - 👯 I’m looking to collaborate with who is passionate
 - 🤔 I’m looking for help with nothing but for my self
-- 💬 Ask me about "anythong"
+- 💬 Ask me about "anything"
 - 📫 How to reach me: "sunghyun1356@naver.com"
-- 😄 Pronouns: "EAGLE"
-- ⚡ Fun fact: my life is funnnnn ;((
 
-## 🔧🔧🔧🔧🔧 Skill s🔧🔧🔧🔧🔧
+##  Skills 
 
-<div align="center">
+
 
 ### Language / Stacks
-🔧🔧
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 ![java](https://img.shields.io/badge/java-E86914?style=for-the-badge&logo=Java&logoColor=white)
 </br>
-🔧🔧
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 
 ### Frameworks
-🔧🔧
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
 
 ### DB
-🔧🔧
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ### DevOps / Infra
-🔧🔧
+
 ![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white)
 ![RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=AmazonRDS&logoColor=white)
 </br>
@@ -44,15 +45,68 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 
 ### Coworking tools
-🔧🔧
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 
 </div>
 </br></br>
+<div align="center">
+  <h1> Projects </h1>
+</div>
 
+<div align="center">
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Tech Stack</th>
+      <th>Year</th>
+      <th>GitHub</th>
+    </tr>
+    <tr>
+      <td><a href=""></a></td>
+      <td>
+        <img src=""/>
+        <img src=""/>
+      </td>
+      <td>년도</td>
+      <td><a href="">🔗</a></td>
+    </tr>
+    <tr>
+      <td><a href=""></a></td>
+      <td>
+        <img src=""/>
+        <img src=""/>
+	<br>
+	<img src="" />
+	<img src="" />
+      </td>
+      <td>년도</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>
+      <td><a href=""></a></td>
+      <td>
+        <img src="" />
+        <img src="" />
+      </td>
+      <td>년도</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>	
+      <td><a href=""></a></td>
+      <td>
+        <img src=""/>
+        <img src=""/>
+	<br>
+	<img src="" />
+	<img src="" />
+      </td>
+      <td>2023</td>
+      <td><a href=""></a></td>
+  </table>
+</div>
 ## 📊 Stats
-🔧🔧
+
 <div align="center">
 
 </br>
