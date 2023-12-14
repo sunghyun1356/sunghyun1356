@@ -119,7 +119,7 @@ Hi there 👋
       <td><a href="https://github.com/sunghyun1356/solve_it_server">🐊</a></td>
 	    </tr>
 	  <tr>
-      <td><a href="https://drive.google.com/file/d/1E32kwT7h6qgla6rIli7BN1NDulS8mWin/view?usp=sharing">밥메이트(대학생들의 맛집 취향저격 커뮤니티연결)</a></td>
+      <td><a href="https://drive.google.com/file/d/1aY_Tt9Td5A0dtl52F6dZUEa2emQsjs9t/view?usp=sharing">밥메이트(대학생들의 맛집 취향저격 커뮤니티연결)</a></td>
       <td>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
