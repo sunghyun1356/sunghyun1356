@@ -67,9 +67,27 @@ Hi there 👋
       <td>
         <img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logo=Java&logoColor=white" />
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+	      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
+	   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
+	      <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> 
       </td>
       <td>2024</td>
-      <td><a href="">🧩</a></td>
+      <td><a href="https://github.com/PuzzleU/puzzle-Server">🧩</a></td>
+    </tr>
+	  <tr>
+      <td><a href="https://drive.google.com/file/d/1E32kwT7h6qgla6rIli7BN1NDulS8mWin/view?usp=sharing">서담 프로젝트 (서담데이터 연애 상담 챗봇) </a></td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logo=Java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
+	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
+	      <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> 
+      </td>
+      <td>2024</td>
+      <td><a href="[https://github.com/RTS-Road-Through-Sogang/Server](https://github.com/sunghyun1356/BackEnd)">💑</a></td>
     </tr>
 	  <tr>
       <td><a href="https://drive.google.com/file/d/1E32kwT7h6qgla6rIli7BN1NDulS8mWin/view?usp=sharing">RTS(서강대학교 수강로드맵 작성 도우미)</a></td>
@@ -79,6 +97,8 @@ Hi there 👋
 	<br>
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
 	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
+	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
+	      <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> 
       </td>
       <td>2023</td>
       <td><a href="https://github.com/RTS-Road-Through-Sogang/Server">🗺</a></td>
@@ -91,6 +111,8 @@ Hi there 👋
 	<br>
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
 	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
+	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
+	      <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> 
       </td>
       <td>2023</td>
       <td><a href="https://github.com/sunghyun1356/sogang_festival_2023">🎊</a></td>
@@ -103,6 +125,8 @@ Hi there 👋
 	<br>
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
 	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
+	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
+	      <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> 
       </td>
       <td>2023</td>
       <td><a href="https://github.com/hackerton4-koogle/server">🥙</a></td>
@@ -114,6 +138,8 @@ Hi there 👋
 	<br>
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
 	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
+	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
+	      <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> 
       </td>
       <td>2023</td>
       <td><a href="https://github.com/sunghyun1356/solve_it_server">🐊</a></td>
@@ -126,6 +152,8 @@ Hi there 👋
 	<br>
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
 	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
+	      <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> 
 	<br>
 	<img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=AmazonRDS&logoColor=white"/>
       </td>
