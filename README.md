@@ -76,7 +76,7 @@ Hi there 👋
       <td><a href="https://github.com/PuzzleU/puzzle-Server">🧩</a></td>
     </tr>
 	  <tr>
-      <td><a href="https://drive.google.com/file/d/1E32kwT7h6qgla6rIli7BN1NDulS8mWin/view?usp=sharing">서담 프로젝트 (서담데이터 연애 상담 챗봇) </a></td>
+      <td><a href="https://github.com/sunghyun1356/BackEnd">서담 프로젝트 (서담데이터 연애 상담 챗봇) </a></td>
       <td>
         <img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logo=Java&logoColor=white" />
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
