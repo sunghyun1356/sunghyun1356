@@ -73,7 +73,7 @@ Hi there 👋
 	      <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> 
       </td>
       <td>2024</td>
-      <td><a href="https://github.com/PuzzleU/puzzle-Server">:heart:</a></td>
+      <td><a href="https://github.com/couplelog/Backend">:heart:</a></td>
     </tr>
     <tr>
       <td><a href="">PuzzleU</a></td>
