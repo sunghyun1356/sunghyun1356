@@ -8,10 +8,27 @@ Hi there 👋
 - 🤔 I’m looking for JOB in **Finance Company**
 - 💬 Ask me about "anything"
 - 📫 How to reach me: "sunghyun1356@naver.com"
+---
+##   🐲Experience🐲
+
+- **2024.04 ~ 2024.08**  
+  *Backend Intern* at HSJ&company, an AI fintech company specializing in real estate taxes and insurance
+
+- **2024.03 ~ 2024.08**  
+  *Backend Developer* at Sinchon Union IT Startup Club
+
+- **2023.03 ~ 2023.12**  
+  *Backend Developer* at Sogang University IT Startup Club
+
+- **2022.09 ~ 2022.12**  
+  *Undergraduate Researcher* at Sogang University Computer Vision Lab
+
+- **2021.06 ~ 2022.08**  
+  *Member* of INSIGHT, Sogang University Business Data Analysis Society
+
+---
 
 ##  🐲Skills🐲 
-
-
 
 ### 🐲Language / Stacks🐲
 
