@@ -62,6 +62,19 @@ Hi there 👋
       <th>Year</th>
       <th>GitHub</th>
     </tr>
+	  <tr>
+      <td><a href="https://drive.google.com/file/d/1lADJQA6QgIeH3Xkmf-2OcTa6FpvzSrhj/view?usp=share_link">Lubee</a></td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logo=Java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+	      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
+	   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
+	      <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> 
+      </td>
+      <td>2024</td>
+      <td><a href="https://github.com/PuzzleU/puzzle-Server">:heart:</a></td>
+    </tr>
     <tr>
       <td><a href="">PuzzleU</a></td>
       <td>
