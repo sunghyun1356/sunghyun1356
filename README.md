@@ -89,6 +89,23 @@ Hi there 👋
       <th>GitHub</th>
     </tr>
 	  <tr>
+      <td><a href="">YP(여피)<인턴 프로젝트> 비공개</a></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" />
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+	<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" />
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+	<img src="https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white" />
+      </td>
+      <td>2024</td>
+      <td><a href="https://github.com/hansangjik-and-company/server">💸</a></td>
+    </tr>
+	  <tr>
       <td><a href="https://drive.google.com/file/d/1lADJQA6QgIeH3Xkmf-2OcTa6FpvzSrhj/view?usp=share_link">Lubee</a></td>
       <td>
         <img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logo=Java&logoColor=white" />
@@ -102,7 +119,7 @@ Hi there 👋
       <td><a href="https://github.com/couplelog/Backend">:heart:</a></td>
     </tr>
     <tr>
-      <td><a href="">PuzzleU</a></td>
+      <td><a href="https://docs.google.com/presentation/d/1gN1vWrJgc4cUWM98Jx2jV9EVkr4bdYom/edit?usp=share_link&ouid=108610521998028882714&rtpof=true&sd=true">PuzzleU</a></td>
       <td>
         <img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logo=Java&logoColor=white" />
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
