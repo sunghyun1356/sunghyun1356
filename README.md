@@ -215,7 +215,7 @@ Hi there 👋
 	<img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=AmazonRDS&logoColor=white"/>
       </td>
       <td>2023</td>
-      <td><a href="https://github.com/RTS-Road-Through-Sogang/Server](https://github.com/2023-SINCHONTHON-Team8/Server)">🍖</a></td>
+      <td><a href="https://github.com/2023-SINCHONTHON-Team8/Server">🍖</a></td>
     </tr>
 		    <tr>	
       <td><a href="https://drive.google.com/file/d/19dZUn0IribriSWVagP9bvH48ZT-nSvqY/view?usp=sharing">
